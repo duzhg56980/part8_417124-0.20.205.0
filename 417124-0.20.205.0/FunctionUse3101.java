@@ -1,0 +1,6 @@
+import org.apache.hadoop.hdfs.server.namenode.EditLogOutputStream;
+public class FunctionUse3101 {
+public void funcUse() {
+EditLogOutputStream editlogoutputstream = new EditLogOutputStream();
+}
+}
